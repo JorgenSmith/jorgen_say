@@ -1,2 +1,2 @@
 #!/bin/bash
-fortune jorgen | cowsay -f bike 
+fortune jorgen | cowsay -f ../jorgen_say/bike.cow
